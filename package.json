@@ -1,0 +1,19 @@
+{
+  "name": "projeto-teste-b01a02",
+  "version": "1.0.0",
+  "description": "Projeto de exercício de teste de software — Engenharia de Software (UEPG), aula B01A02",
+  "main": "index.js",
+  "type": "commonjs",
+  "bin": {
+    "projeto-teste": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test \"tests/**/*.test.js\""
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
