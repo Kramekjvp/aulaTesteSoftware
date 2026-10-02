@@ -1,6 +1,7 @@
 # Casos de teste — Projeto de Teste B01A02
 
 **Aluno:** João Vitor Pereira Kramek
+**Dupla:** João Vitor Pereira Kramek e Samanta Barth
 
 Todos os casos estão no arquivo novo `tests/casos-de-teste.test.js` e rodam com
 `npm test`. O resultado esperado vem sempre da `ESPECIFICACAO.md`; o resultado
